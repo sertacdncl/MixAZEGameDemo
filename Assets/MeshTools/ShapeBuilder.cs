@@ -20,8 +20,6 @@ namespace MeshTools
                 new Vector2Int(bounds.xMax, bounds.yMin),
             });
 
-            // todo: bevel the outerborder here?
-
             var borders = EdgeSolver.GetBorders(cellPositions);
             borders.Add(externalBorder);
 
