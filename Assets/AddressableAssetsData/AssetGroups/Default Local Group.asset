@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d8564d7c185d46d43b89fd6660a8a4bc
+  m_SerializeEntries:
+  - m_GUID: d8cd20ff7ff4b44f59011d77e40b199c
+    m_Address: Assets/_Game/AddressableAssets/Maze/MazeBackgroundView.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6665ff939aa684dfb9c70c2984e62b38
+    m_Address: Assets/_Game/AddressableAssets/Maze/Floor.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ecdcaf53c24a4d89861565df7da2ff7
+    m_Address: Assets/_Game/AddressableAssets/Maze/MazeWall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbc9164f81aed4ffc874304b4e93cccb
+    m_Address: Assets/_Game/AddressableAssets/Player/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b718ef11082648ed864879152e0d3dc
+    m_Address: Assets/_Game/AddressableAssets/Player/PlayerHitParticle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e091cb18acaae4ec68a04a39011495d4
+    m_Address: Assets/_Game/AddressableAssets/Level/LevelCompleteParticles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d70fad8169ad3546a4fa9b46f19c9e3
+    m_Address: Assets/_Game/AddressableAssets/Maze/MazeWallMesh.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 38d13b5677d5361419d17ab185671687, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3fef4c6e9d64ab44694b8f054be8484b, type: 2}
+    - {fileID: 11400000, guid: faf8021b17ad643418eff24dcc4548a4, type: 2}
